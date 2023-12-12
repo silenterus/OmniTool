@@ -3,6 +3,10 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
+        <algolia-id>FHI4F96SQ6</algolia-id>
+        <algolia-index>omni_tool</algolia-index>
+        <algolia-api-key>1260c3b9b91c99a746d6ea107be7775f</algolia-api-key>
+        <web-root>https://some.domain</web-root>
     </variables>
     <build-profile instance="omni_tool_instance">
         <variables>

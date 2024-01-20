@@ -1,0 +1,12 @@
+{
+  "solution": {
+    "path": "Omni.sln",
+    "projects": [
+      "Omni.Common\\Omni.Common.csproj",
+      "Omni.Data\\Omni.Data.csproj",
+      "Omni.ViewModel.Tests\\Omni.ViewModel.Tests.csproj",
+      "Omni.ViewModel\\Omni.ViewModel.csproj",
+      "Omni.Wpf\\Omni.Wpf.csproj"
+    ]
+  }
+}

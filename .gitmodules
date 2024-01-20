@@ -1,0 +1,77 @@
+﻿[submodule "Core/Omni.Core"]
+	path = src/Omni.Core
+	url = https://github.com/silenterus/Omni.Core.git
+	
+[submodule "Core/Omni.Datatypes"]
+	path = src/Omni.Datatypes
+	url = https://github.com/silenterus/Omni.Datatypes.git
+
+[submodule "Generator/Omni.SqlGen"]
+	path = src/Omni.SqlGen
+	url = https://github.com/silenterus/Omni.SqlGen.git
+	
+[submodule "Core/Omni.Extensions"]
+	path = src/Omni.Extensions
+	url = https://github.com/silenterus/Omni.Extensions.git
+	
+[submodule "Core/Omni.Crawler"]
+	path = src/Omni.Crawler
+	url = https://github.com/silenterus/Omni.Crawler.git
+	
+[submodule "Core/Omni.Assemblies"]
+	path = src/Omni.Assemblies
+	url = https://github.com/silenterus/Omni.Crawler.git
+	
+	
+[submodule "Core/Omni.Cli"]
+	path = src/Omni.Cli
+	url = https://github.com/silenterus/Omni.CMD.git
+	
+[submodule "Core/Omni.ViewModel"]
+	path = src/Omni.ViewModel
+	url = https://github.com/silenterus/Omni.ViewModel.git
+	
+[submodule "Core/Omni.Wpf"]
+	path = src/Omni.Wpf
+	url = https://github.com/silenterus/Omni.Wpf.git
+	
+[submodule "Core/Omni.WinUI"]
+	path = src/Omni.WinUI
+	url = https://github.com/silenterus/Omni.WinUI.git
+	
+[submodule "Core/Omni.Ava.Core"]
+	path = src/Omni.Ava
+	url = https://github.com/silenterus/Omni.Ava.Core.git
+[submodule "src/Omni.Core"]
+	path = src/Omni.Core
+	url = https://github.com/silenterus/Omni.Core.git
+[submodule "src/Omni.Datatypes"]
+	path = src/Omni.Datatypes
+	url = https://github.com/silenterus/Omni.Datatypes.git
+[submodule "src/Omni.SqlGen"]
+	path = src/Omni.SqlGen
+	url = https://github.com/silenterus/Omni.SqlGen.git
+[submodule "src/Omni.Extensions"]
+	path = src/Omni.Extensions
+	url = https://github.com/silenterus/Omni.Extensions.git
+[submodule "src/Omni.Crawler"]
+	path = src/Omni.Crawler
+	url = https://github.com/silenterus/Omni.Crawler.git
+[submodule "src/Omni.Assemblies"]
+	path = src/Omni.Assemblies
+	url = https://github.com/silenterus/Omni.Crawler.git
+[submodule "src/Omni.Cli"]
+	path = src/Omni.Cli
+	url = https://github.com/silenterus/Omni.CMD.git
+[submodule "src/Omni.ViewModel"]
+	path = src/Omni.ViewModel
+	url = https://github.com/silenterus/Omni.ViewModel.git
+[submodule "src/Omni.Wpf"]
+	path = src/Omni.Wpf
+	url = https://github.com/silenterus/Omni.Wpf.git
+[submodule "src/Omni.WinUI"]
+	path = src/Omni.WinUI
+	url = https://github.com/silenterus/Omni.WinUI.git
+[submodule "src/Omni.Ava"]
+	path = src/Omni.Ava
+	url = https://github.com/silenterus/Omni.Ava.Core.git

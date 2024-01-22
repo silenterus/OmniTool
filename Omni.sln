@@ -33,14 +33,11 @@ EndProject
 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\Omni.Crawler", "src\Omni.Crawler\Omni.Crawler\Omni.Crawler\Omni.Crawler.csproj", "{A9272220-1CD6-4F67-9083-60573900DD5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\Omni.SqlGen.SourceGenerators", "..\Omni.SqlGen\src\Omni.SqlGen.SourceGenerators\Omni.SqlGen.SourceGenerators.csproj", "{CB114637-5F9C-4B82-9D73-56F7B33CBA5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\Omni.SqlGen.SourceGenerators", "src\Omni.SqlGen\src\Omni.SqlGen.SourceGenerators\Omni.SqlGen.SourceGenerators.csproj", "{CB114637-5F9C-4B82-9D73-56F7B33CBA5C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\Omni.SqlGen", "src\Omni.SqlGen\src\Omni.SqlGen\Omni.SqlGen.csproj", "{F9FB4BD4-B3F9-4D4E-91AE-3C97B0CDB686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\Selenium.WebDriver.UndetectedChromeDriver", "src\Selenium.WebDriver.UndetectedChromeDriver\Selenium.WebDriver.UndetectedChromeDriver\Selenium.WebDriver.UndetectedChromeDriver.csproj", "{65B9D893-0F7F-43CB-91AD-EAEFDB134004}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests\UndetectedChromeDriver", "src\UndetectedChromeDriver\UndetectedChromeDriver\UndetectedChromeDriver.csproj", "{7D8BB5AF-F335-48AB-B36E-54DED69A2A60}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
